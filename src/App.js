@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import imgLogo from './image.jpg'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>BANK OF KOREA</h1>
+          <h1>이민기😍😘</h1>
+          <img src={imgLogo} alt='logo image' height="1400" width="1400"/>
+          
           
           
         </p>
@@ -17,3 +18,4 @@ function App() {
   );
 }
 export default App;
+
