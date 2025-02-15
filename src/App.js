@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p>
           <h1>이민기😍😘</h1>
-          <img src={imgLogo} alt='logo image' height="1400" width="1400"/>
+          <img src={imgLogo} alt='logo image' height="500" width="500"/>
           
           
           
