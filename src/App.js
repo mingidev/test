@@ -7,6 +7,8 @@ function App() {
       <header className="App-header">
         <p>
           <h1>😍😘</h1>
+          <h3>어렸을 적 강아지와 함께 찍은 사진.</h3> 
+          
           <img src={imgLogo} alt='logo image' height="380" width="380"/>
           
           
